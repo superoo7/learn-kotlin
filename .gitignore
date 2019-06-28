@@ -20,7 +20,7 @@ workspace.xml
 .gradle/
 build/
 !**/src/**/build
-!**/test/**/build
+!**/j04_class/**/build
 *.iml
 !**/testData/**/*.iml
 .idea/libraries/Gradle*.xml
@@ -50,5 +50,5 @@ build/
 kotlin-ultimate/
 node_modules/
 .rpt2_cache/
-libraries/tools/kotlin-test-nodejs-runner/lib/
+libraries/tools/kotlin-j04_class-nodejs-runner/lib/
 local.properties
